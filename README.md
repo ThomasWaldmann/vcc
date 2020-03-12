@@ -2,20 +2,23 @@ VCC = Virtual Chaos Communication
 =================================
 
 Idea: simulate a chaos event (or also other, similar events) in cyberspace,
-as far as possible. Won't be the complete experience, but we could try how
-far we'll get.
+as far as possible.
+
+Won't be the complete experience, but we could try how far we'll get.
 
 Experiences we get at such an event and how they could map
 ----------------------------------------------------------
 
-there is some rough topic (can be quite wide scope, as seen at CCC congress
-or a narrower scope, think of a Python Conference)
-- planning / announcement
+there is some rough topic
+- can be quite wide scope, as seen at CCC congress
+- can be narrower scope, think of a Python Conference
+- matter of planning / announcement (see "news room")
 
 all participants publically meet at some big space at the same time.
 - no space problem in the digital domain :)
 - same time is a matter of planning / announcement.
 - participants need to recognizably "be there". name / nick / photo?
+
   people obviously can't meet you if you're completely anonymous.
 
 there is a map so you know where you can go.
@@ -51,18 +54,18 @@ meeting friends
 - you still can meet them: if they are "there", they have time and comm
   channels are open (otherwise they would not be "there").
   audio, video, text, ...
-- there can be public places to hang out (think of assemblies) - being
-  there means one is open to publicly talk with some people about the
-  respective topic. 2 people start, more people can join listening or
-  talking.
-  (how good does that work/scale with remote audio/video?)
+- there can be public places to hang out (think of assemblies)
+  - being there means one is open to publicly talk with some people about topic
+  - 2 people start, more people can join listening or talking
+  - how good does that work/scale with remote audio/video?
 - if there is a need for private talk, a group of people could lock their
   conversation, so no more people can join and hear/contribute.
   (not sure this is needed, could be also just made outside of VCC)
 - nice thing: your virtual person can be at multiple spaces at the same
   time. you can still only talk to a limited amount of people though.
 
-DECT phones (== some comm channel not bound to some specific space/room)
+DECT phones
+- == some comm channel not bound to some specific space/room
 - easy, just chat to someone
 - should have "off" switch
 
@@ -71,28 +74,32 @@ artistic
 - there could be rooms with visual arts
 
 self.__doc__?
-some thing i always missed at such events is better "docs".
-you see a lot of nerds with computers, but often you don't see what they are
-working on (even if it is not at all intended to be secret or private).
-of course you can't talk to some thousand people and ask everybody, so a lot
-of interesting opportunities are likely lost.
+- some thing i always missed at such events is better "docs".
+- you see a lot of nerds with computers, but often you don't see what they are
+  working on (even if it is not at all intended to be secret or private).
+- of course you can't talk to some thousand people and ask everybody, so a lot
+  of interesting opportunities are likely lost.
 - VCC could help here if people feed as much as they are comfortable with into
   the system. So people with common interests could better find each other.
 
 orga
-to have a good selection of talks, we need some organizers who select a subset
-of whatever is submitted in the cfp.
-an experiment would be NOT to select talks, but just offer them all.
-space is not limited in cyberspace, but the time of the audience is.
+- to have a good selection of talks, we need some organizers who select a subset
+  of whatever is submitted in the cfp.
+- an experiment could be NOT to select talks, but just offer them all.
+
+  space is not limited in cyberspace, but the time of the audience is.
 
 info / emergency room
-one room where people can join in if they have general questions.
-help beginners / newscomers or if there are technical or social issues.
+- one room where people can join in if they have general questions.
+- help beginners / newscomers or if there are technical or social issues.
 
 news room
-a news / blog like room for before / while / after the event
+- a news / blog like room for before / while / after the event
 
-personal profiles / assembly / project profiles
+profiles
+- personal
+- project
+- assembly
 
 sprints / hackathons?
 - have rooms for projects
@@ -107,12 +114,15 @@ Idea: not trying to reinvent the wheel, but reusing good existing free and open
 soft- and hardware and just wrapping / integrating them as needed.
 
 Django / PostgreSQL (all backend / database stuff, django admin, forms, search)
+
 CSS / JS (browser based UI, good UX)
 
 (parser for) markdown / reST markup for formatted content
 
 BigBlueButton (teaching kind of stuff)
+
 Mumble (telephony)
+
 WebRTC (if BBB is not enough, directly use this?)
 
 
