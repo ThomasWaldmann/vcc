@@ -123,6 +123,8 @@ BigBlueButton (teaching kind of stuff)
 
 Mumble (telephony)
 
+[Jitsi](https://jitsi.org/jitsi-meet/) (video conference)
+
 WebRTC (if BBB is not enough, directly use this?)
 
 
