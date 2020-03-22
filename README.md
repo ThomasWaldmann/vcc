@@ -6,6 +6,10 @@ as far as possible.
 
 Won't be the complete experience, but we could try how far we'll get.
 
+Note: for now, we collect IDEAS here (see also issues for more details),
+code might be elsewhere.
+
+
 Experiences we get at such an event and how they could map
 ----------------------------------------------------------
 
